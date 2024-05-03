@@ -33,7 +33,7 @@ window.onscroll = ()=>{
 // TYPED SCRIPT HOME
 
 var typed =  new Typed(".auto-type",{
-    strings: ["Web Developer","Web Designer","Frontend Developer","Python Developer"],
+     strings: ["Web Developer","SPFx Developer","Frontend Developer","React Developer","Microsoft PowerApp","App Developer"],
     typeSpeed: 150,
     backSpeed: 150,
     loop: true
