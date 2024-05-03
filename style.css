@@ -376,4 +376,5 @@ section{
     font-size: 25px;
     color: var(--text-color);
     background: var(--main-color);
+    margin-right: -37px;
 }
